@@ -12,3 +12,7 @@ Moreover, there is also a multiplication instruction that is computed in a singl
 
 ![](Images/IM01.png)
 
+If you wish to write a program; edit file ROM.vhd and change the binary data corresponding to the instructions of your assembly code.
+
+![](Images/IM04.png)
+
